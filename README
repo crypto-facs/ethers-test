@@ -2,6 +2,8 @@ Before running the script, please add `TESNET_RPC` URL and `PRIVATE_KEY` of the 
 
 Run the following commands to run the script:
 
-`npm i`
+```
+npm i
+node index.js`
+```
 
-`node index.js`
