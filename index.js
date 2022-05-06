@@ -35,7 +35,7 @@ const ABI = [
 
 const CONTRACT_ADDRESS = "0xED1097Ebe9826f62BF019d24c5989bD594FAcc24";
 
-let PRIVATE_KEY = "ENTER_PRIVATE_KEY_HERE";
+const PRIVATE_KEY = "ENTER_PRIVATE_KEY_HERE";
 
 const provider = new ethers.providers.JsonRpcProvider(TESTNET_RPC);
 const wallet = new ethers.Wallet(PRIVATE_KEY, provider);
