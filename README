@@ -1,0 +1,11 @@
+Before running the script, please add `TESNET_RPC` URL and `PRIVATE_KEY` of the sender variable on `index.js`
+
+Run the following commands to run the script:
+
+```
+npm i
+```
+
+```
+node index.js
+```
